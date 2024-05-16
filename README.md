@@ -1,2 +1,2 @@
-# Sonar-System-Machine-Learning
-SONAR Rock vs Mine Prediction with Python
+# Thyroid disease prediction
+Thyroid disease prediction with Python
